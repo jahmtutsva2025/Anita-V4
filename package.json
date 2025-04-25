@@ -1,5 +1,5 @@
 {
-  "name": "Queen_Anita-V4",
+  "name": "ZUKA AI",
   "version": "4.0.0",
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "stop": "pm2 stop Queen_Anita-V4",
     "restart": "pm2 restart Queen_Anita-V4"
   },
-  "author": "David Cyril",
+  "author": "Zuka",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
