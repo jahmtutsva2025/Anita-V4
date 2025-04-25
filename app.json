@@ -1,7 +1,7 @@
 {
   "name": "ZUKA AI",
   "description": "A WhatsApp Bot Created By Zuka",
-  "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
+  "logo": "https://imgur.com/a/7dFQZmw",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
